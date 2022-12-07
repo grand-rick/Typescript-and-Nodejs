@@ -6,7 +6,8 @@
   "scripts": {
     "lint": "eslint . --ext .ts",
     "lint:fix": "eslint --fix . --ext .ts",
-    "prettier": "prettier --config .prettierrc 'src/**/*.ts' --write"
+    "prettier": "prettier --config .prettierrc 'src/**/*.ts' --write",
+    "build": "tsc"
   },
   "author": "",
   "license": "ISC",
