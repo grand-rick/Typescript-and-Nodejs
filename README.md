@@ -5,7 +5,9 @@ TypeScript can be found on npm's website [here](https://www.npmjs.com/package/ty
 
 ```bash
 $ npm i typescript // save to dependencies
-$ npm i typescript --save-dev // save to devDependencies
+$ npm i --save-dev typescript // save to devDependencies
+$ npm i --save-dev ts-node
+$ npm i --sav-dev @types/node
 ```
 
 ## **NPX and Creating your package.json Script**
